@@ -1,2 +1,2 @@
 # IPSVIP-Internship
-  This is a repositor for Infopillar Internship (DEC 2021).
+  This is a repository for Infopillar Internship (DEC 2021).
